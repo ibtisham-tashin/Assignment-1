@@ -52,7 +52,7 @@
     
          color: aliceblue;
          padding: 10px 40px;
-         border-radius: 20px;
+         border-radius: 10px;
          font-weight: 1000px;
          text-align: center;
          border: 5px solid rgb(253, 0, 55);
@@ -216,8 +216,9 @@ height: 30%;
 }
 .size{
     width: 80%;
-    padding-right: 12%;
+    padding-right: 5%;
     margin-right: 5%;
+    padding-left: 2%;
       }
 .size img{
     width: 100%;
@@ -263,19 +264,20 @@ height: 30%;
 
 .pic2 img{
 
-           width: 60%;
-    margin-left: 5%;
-    height: 70%;
+           width: 70%;
+     margin-left: 15%;
+    height: 60%;
     padding-right:12%;
 margin-top: 15%;
-margin-left: 15%;
-margin-bottom: 5%;
+
+margin-bottom: 3%;
       }
       .pic2{
 
-        margin-left: 5%;
+        margin-left: 1%;
         margin-right:0%;
         margin-top: 6%;
+        padding-right: 1%;
       }
 
      
@@ -283,19 +285,31 @@ margin-bottom: 5%;
       .finalhead{
         text-align:center;
         font-size: 300%;
-       color:black;
-      
-    
-       padding-top: 8%;
-       padding-right:25%;
-
-       font-weight: 200%;
-       margin-bottom: 5%;
-       margin-top: 30%;
-       margin-left:10%;
-       margin-right:0%;
+        color:black;
+        padding-top: 8%;
+        padding-right:25%;
+        font-weight: 200%;
+        margin-bottom: 5%;
+        margin-top: 30%;
+        margin-left:10%;
+        margin-right:0%;
     
  }
+             
+     .final{
+        margin-left:1%;
+        padding-right: 9%;
+        
+     }
+
+
+.ff4{
+
+    padding-right: 3%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+    height: 500%;
+}
 
 
       .finalpara{
@@ -345,7 +359,7 @@ margin-bottom: 5%;
 
 .email1{
     
-    background-color: rgb(236, 172, 172);
+    background-color: rgb(241, 201, 201);
     
     height:50px;
     width:300px;
