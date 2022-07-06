@@ -36,9 +36,14 @@
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    position: relative;
+    position:relative;
     background-position: center;
-    height: 650px;
+    height: 670px;
+    margin: 0;
+    padding-top: 0cm;
+    border-top: 0;
+    
+
    
      }
      
@@ -321,4 +326,41 @@ margin-bottom: 5%;
     padding-top: 1%;
     
     
+}
+
+.email{
+    display: flex;
+    background-color:rgb(214, 253, 253);
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 150px;
+    text-align:center;
+    margin-bottom: 7%;
+    padding-left: 12%;
+    padding-top: 5%;
+    padding-right:10%;
+    
+    
+}
+
+.email1{
+    
+    background-color: rgb(236, 172, 172);
+    
+    height:50px;
+    width:300px;
+    
+}
+
+.email2{
+    
+    background-color: rgb(210, 240, 181);
+    height:50px;
+    width:200px;
+}
+.line{
+    text-align: left;
+    font-weight:5px;
+      
+       padding-left: 10%;
 }
