@@ -6,8 +6,8 @@
     
     
       body{
-        margin:0;
-        
+       
+        margin: 0%;
         font-family: 'Paytone One', sans-serif;
 
     }
@@ -39,9 +39,9 @@
     position:relative;
     background-position: center;
     height: 670px;
-    margin: 0;
-    padding-top: 0cm;
-    border-top: 0;
+    margin-top: 0px;
+    padding-top: 1px;
+    border: none;
     
 
    
